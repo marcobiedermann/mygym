@@ -1,0 +1,22 @@
+name: Frequentation Scraper
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Log frequentation
+        run: |
+          mkdir -p `date +%Y`/`date +%m`
+          echo "$(date +%s);$(curl -s https://www.mygym-boutique.de/api/checkinCount | jq '.[] | select(.studioNumber | contains("IEA$1")) | .frequentation')" >> `date +%Y`/`date +%m`/$(date +%F).csv
+      - name: Push
+        run: |
+          git config --global user.name ${{secrets.USER_NAME}}
+          git config --global user.email ${{secrets.USER_EMAIL}}
+          git add .
+          git commit -am "add report"
+          git push
