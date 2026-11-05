@@ -4,19 +4,24 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 
+permissions:
+  contents: write
+
 jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - name: Log frequentation
+        run: ./scripts/log-frequentation.sh 'IEA$1'
+      - name: Commit changes
         run: |
-          mkdir -p `date +%Y`
-          echo "$(date -u +%Y-%m-%dT%H:%M:%S.000Z),$(curl -s https://www.mygym.de/api/checkinCount | jq '.[] | select(.studioNumber | contains("IEA$1")) | .frequentation')" >> `date +%Y`/$(date -u +%Y-%m).csv
-      - name: Push
-        run: |
-          git config --global user.name ${{secrets.USER_NAME}}
-          git config --global user.email ${{secrets.USER_EMAIL}}
+          if [ -z "$(git status --porcelain .)" ]; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -am "add report"
+          git commit -m "chore: add report"
           git push
