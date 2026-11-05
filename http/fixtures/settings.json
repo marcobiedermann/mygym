@@ -1,0 +1,457 @@
+{
+  "id": "HfJHXIZi8",
+  "private": false,
+  "created": "2021-07-01T09:05:45.159Z",
+  "modified": "2022-04-05T09:55:15.001Z",
+  "title": null,
+  "logo": {
+    "assetID": "_qQWyvnfQdunbOb36-kjVg",
+    "caption": "",
+    "file": {
+      "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique.png",
+      "size": 60793,
+      "resolution": {
+        "width": 1750,
+        "height": 1227
+      }
+    },
+    "fileVariants": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_800.png",
+        "size": 75484,
+        "resolution": {
+          "width": 800,
+          "height": 561
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_1600.png",
+        "size": 185458,
+        "resolution": {
+          "width": 1600,
+          "height": 1122
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_300.png",
+        "size": 24824,
+        "resolution": {
+          "width": 300,
+          "height": 210
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_80.png",
+        "size": 6547,
+        "resolution": {
+          "width": 80,
+          "height": 56
+        }
+      }
+    ],
+    "mimetype": "image/png",
+    "thumbnails": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_160_thumb.png",
+        "dimension": 160
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_200_thumb.png",
+        "dimension": 200
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_400_thumb.png",
+        "dimension": 400
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_60_thumb.png",
+        "dimension": 60
+      }
+    ],
+    "title": "logo-mygym-boutique",
+    "type": "image"
+  },
+  "appLogo": null,
+  "favicon": {
+    "assetID": "_qQWyvnfQdunbOb36-kjVg",
+    "caption": "",
+    "file": {
+      "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique.png",
+      "size": 60793,
+      "resolution": {
+        "width": 1750,
+        "height": 1227
+      }
+    },
+    "fileVariants": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_800.png",
+        "size": 75484,
+        "resolution": {
+          "width": 800,
+          "height": 561
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_1600.png",
+        "size": 185458,
+        "resolution": {
+          "width": 1600,
+          "height": 1122
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_300.png",
+        "size": 24824,
+        "resolution": {
+          "width": 300,
+          "height": 210
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_80.png",
+        "size": 6547,
+        "resolution": {
+          "width": 80,
+          "height": 56
+        }
+      }
+    ],
+    "mimetype": "image/png",
+    "thumbnails": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_160_thumb.png",
+        "dimension": 160
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_200_thumb.png",
+        "dimension": 200
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_400_thumb.png",
+        "dimension": 400
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/_qQWyvnfQdunbOb36-kjVg/logo-mygym-boutique_60_thumb.png",
+        "dimension": 60
+      }
+    ],
+    "title": "logo-mygym-boutique",
+    "type": "image"
+  },
+  "keywords": null,
+  "description": null,
+  "ogTitle": null,
+  "ogDescription": null,
+  "ogImage": null,
+  "enableCrawling": true,
+  "googleAnalyticsID": "UA-223174367-1",
+  "googleAnalyticsViewID": null,
+  "googleAdsID": "AW-10809868175",
+  "googleTagID": "GTM-THGGF6V",
+  "googleConversionIDs": {
+    "membership": "emGUCKyNn4gDEI__xaIo"
+  },
+  "facebookMarketingID": "950865875615222",
+  "facebookDomainVerification": "dwye4ujf86jp354s5mb9ngearg1olx",
+  "yextID": null,
+  "centerfoldImages": [],
+  "socialButtonsActive": true,
+  "youtubeUrl": null,
+  "facebookUrl": "https://www.facebook.com/mygymboutique",
+  "instagramUrl": "https://www.instagram.com/mygym_boutique_/?hl=de",
+  "customButtonActive": false,
+  "customButtonImage": null,
+  "customButtonTitle": null,
+  "customButtonUrl": null,
+  "enableChat": false,
+  "zendeskID": null,
+  "usercentricsID": "_N-x_ZDs-",
+  "membershipSettings": {},
+  "showAppBanner": true,
+  "generateAppPage": true,
+  "iOSAppID": "1593654563",
+  "androidAppID": "de.hector.clubapp.mygymboutique",
+  "appsiteUrl": "https://dsb-layer.entrecode.de/mygymboutique",
+  "frontendUrl": "https://www.mygym-boutique.de",
+  "countries": [
+    {
+      "name": "Deutschland",
+      "value": "DE"
+    }
+  ],
+  "moduleSettings": {
+    "app": {},
+    "seo": {
+      "membershipReferralFeatures": []
+    },
+    "seca": {
+      "addon": ["VCTYLAAEf"],
+      "default": [
+        "singleValueCharts.renderBodyComposition",
+        "singleValueCharts.renderBodyMassIndex",
+        "singleValueCharts.renderWeight"
+      ],
+      "premium": [
+        "singleValueCharts.renderBIVA",
+        "trendCharts.renderBIVA",
+        "singleValueCharts.renderBodyComposition",
+        "trendCharts.renderBodyComposition",
+        "singleValueCharts.renderBodyMassIndex",
+        "trendCharts.renderBodyMassIndex",
+        "singleValueCharts.renderFatMassPercentage",
+        "trendCharts.renderFatMassPercentage",
+        "singleValueCharts.renderPhaseAngle",
+        "trendCharts.renderPhaseAngle",
+        "singleValueCharts.renderSegmentalSkeletalMuscleMass",
+        "singleValueCharts.renderSegmentalSkeletalMuscleMassBMIIndependant",
+        "trendCharts.renderSegmentalSkeletalMuscleMass",
+        "singleValueCharts.renderSkeletalMuscleMass",
+        "trendCharts.renderSkeletalMuscleMass",
+        "singleValueCharts.renderSkeletalMuscleMassOverAge",
+        "trendCharts.renderSkeletalMuscleMassOverAge",
+        "trendCharts.renderSkeletalMuscleMassOverAgeBMIIndependant",
+        "trendCharts.renderSegmentalSkeletalMuscleMassBMIIndependant",
+        "singleValueCharts.renderSkeletalMuscleMassOverAgeBMIIndependant",
+        "singleValueCharts.renderTruBodyScore",
+        "trendCharts.renderTruBodyScore",
+        "singleValueCharts.renderVisceralAdiposeTissue",
+        "trendCharts.renderVisceralAdiposeTissue",
+        "singleValueCharts.renderWaistCircumference",
+        "trendCharts.renderWaistCircumference",
+        "singleValueCharts.renderWater",
+        "singleValueCharts.renderWaterRatio",
+        "trendCharts.renderWaterRatio",
+        "singleValueCharts.renderWeight",
+        "trendCharts.renderWeight"
+      ],
+      "premiumBook": "Addon buchen",
+      "premiumHint": "Schalte alle Daten deiner Körperanalyse frei.",
+      "noValuesHint": "Es liegen noch keine Messungen vor."
+    },
+    "visibility": {
+      "abos": true,
+      "seca": true,
+      "sepa": true,
+      "addons": true,
+      "bistro": true,
+      "aboDebt": true,
+      "classes": false,
+      "profile": true,
+      "checkins": true,
+      "messages": true,
+      "referral": true,
+      "register": true,
+      "membership": true,
+      "voucherBuy": true,
+      "covidUpload": true,
+      "bistroCharge": true
+    },
+    "covidUpload": {
+      "global": {
+        "mode": "disabled",
+        "text": "",
+        "infoURL": ""
+      }
+    },
+    "visibilityApp": {
+      "abos": true,
+      "seca": true,
+      "sepa": true,
+      "addons": true,
+      "bistro": true,
+      "aboDebt": true,
+      "classes": false,
+      "profile": true,
+      "checkins": true,
+      "messages": true,
+      "referral": true,
+      "register": true,
+      "checkinQR": true,
+      "membership": true,
+      "voucherBuy": true,
+      "covidUpload": true,
+      "bistroCharge": true,
+      "checkinCount": true
+    }
+  },
+  "text": null,
+  "config": {
+    "page": {
+      "width": {
+        "unit": "%",
+        "value": 100
+      }
+    },
+    "scss": {
+      "mobile": ".tpl-header {\n  width: 100% !important;\n right: 0px !important;\n  left: 0px !important;\n}\n\n.tpl-nav-item {\n\t width: 200px;\n}\n\n.tpl-header {\n\tposition: relative!important;;\n\t z-index: 100!important;\n\t  top: 0px!important;\n}\n\n.tpl-type_sandwich .tpl-navbar {\n    display: inline;\n}\n\n.tpl-navbar__main .tpl-nav-item {\n    background: none !important;\n}\n\n.tpl-footer .tpl-footer__nav {\n    width: 100%;\n}\n\n.create-membership-new .create-membership-intro .is-ink-super {\n\tcolor: #fff!important;\n\tfont-size: 1.6rem!important;\n\tline-height: 1.8rem;\n}\n\n.create-membership-new .create-membership-intro {\n\t  margin-top: 40px;\n\tpadding-bottom: 0px;\n\tcolor: #fff;\n}\n\n\n.create-membership-new .create-membership-intro h1 {\n\t font-size: 1rem !important;\n\tpadding: 0px;\n}\n\n.tpl-page_membership .tpl-header {\n\t  display: none;\n}\n\n\n\n\n.benefit-list__element.is-active {\n\t font-size: 16px;\n\thyphens: none !important;\n}\n\n.is-mobile .create-membership-header .is-h3 {\n\t padding: 0!important;\n\t   padding-bottom: 0px!important;\n}\n\n.create-membership-new .create-membership-footer {\n    padding: 0rem;\n}\n\n.create-membership-new .membership-tab.is-current {\n    padding-bottom: 9rem;\n}\n\n.create-membership-new .create-membership-footer .btn_super {\n    margin-bottom: 20px;\n}\n\n.tpl-membership.tpl-membership_success {\n    color: #fff !important;\n    padding: 20px !important;\n}\n\n//ONLINE-TRAINING\n\n.is-margin-bottom-4 {\n    margin-top: 30px;\n}\n",
+      "tablet": "",
+      "desktop": "\n\n",
+      "general": "@font-face {\n    font-family: 'Annonce';\n    src: url('https://www.mygym.at/066eddc5/web-special/vd4Mcu69TDCnp9W90DY0KA/Annonce.woff2') format('woff2'),\n        url('https://www.mygym.at/066eddc5/web-special/Twugs-CUQY-n_DsXz11ltw/Annonce.woff') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n\n\n// BUTTON\n\n.btn, .btn_membership {\n     padding: 1rem 1.5rem;\n    font-size: 1.2rem;\n     border-radius: 0rem;\n    font-weight: 700;\n    color: #fff !important;\n    text-transform: uppercase;\nmargin: 6px 0px;\n    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);\n    background: #ED8F00;\n}\n\n// MENÜ\na.tpl-nav-item__link.btn_membership {\n    padding: 10px 20px;\n    margin-top: 20px;\n}\n\na.one-pager-nav.tpl-nav-item__link {\n    text-transform: uppercase;\n}\n\n.one-pager-container .one-pager-nav .one-pager-nav__index {\n    color: #ffffff;\n    background-color: #037793;\n}\n\n.tpl-nav-item__group {\n    padding-left: 50px;\n}\n\n.tpl-type_sandwich .tpl-nav-item__group {\n    display: block;\n}\n\n.tpl-navbar {\n    background-color: rgba(255, 255, 255, 0.16)793;\n}\n\n.is-active>.tpl-nav-item__link {\n    color: #ED8F00;\n}\n\n.hamburger {\n // position: absolute;\n // right: 0.5em;\n}\n\n//Mitglied-werden\n\n\n.benefit-list__element.is-active {\n    font-size: 1.4rem;\n}\n\n\n.tpl-membership.tpl-membership_success {\n    margin-top: 20vh;\n    padding: 15px;\n}\n\n\n.align-center.is-margin-bottom-2.create-membership-intro {\n    color: #fff;\n    text-shadow: 0 2px 8px rgb(0 0 0 / 40%), 0 2px 24px rgb(0 0 0 / 20%);\n}\n\n.club-list {\n    max-width: 1000px !important;\n    margin: 0px auto;\n}\n\n\n\n.create-membership-new .config-list__element.is-active, .create-membership-new .benefit-list__element.is-active, .create-membership-new .contract-list__element.is-active, .create-membership-new .option-list__element.is-active, .create-membership-new .club-list__element.is-active {\n    color: #919191;\n    background-color: #fff;\n}\n\n.create-membership-new .membership-tab {\n    color: #fff;\n    h1 {\n        color: #323232 !important; \n    }\n}\n\n.tpl-navbar {\n  left: initial !important;\n  right: 0 !important;\n\n  .tpl-navbar__sub,\n  .tpl-navbar__main {\n    align-self: flex-end;\n\n    .flex-space.is-hidden {\n      display: none !important;\n    }\n\n    .tpl-nav-item {\n      margin: initial !important;\n      text-align: right;\n      align-self: flex-end;\n    }\n  }\n}\n\n.tpl-page {\n  height: initial;\n  min-height: 100%;\n\n  &.js-navbar-active {\n    overflow: initial;\n    height: initial;\n  }\n}\n\n.tpl-header {\n  padding-right: 20px;\n\n  .hamburger {\n  //  right: 1.5em;\n  }\n}\n\n.tpl-type_sandwich .tpl-nav-item__link {\n  font-size: 1.3em;\n  line-height: 1.5em;\n}\n\n// SIDE MENÜ\n.one-pager-container {\n    display: none !important;\n}\n\n.tpl-nav-item__link.btn_membership {\n    margin-right: 0px;\n    padding: 7px 15px;\n    border-radius: 5px;\n    margin-top: 50px;\n}"
+    },
+    "footer": {
+      "bgColor": "#037793",
+      "linkColor": "#ED8F00",
+      "textColor": "#fff"
+    },
+    "header": {
+      "isSticky": true
+    },
+    "navbar": {
+      "breakpoint": "always"
+    },
+    "tplType": "sandwich",
+    "tracking": {
+      "IEA": {
+        "googleTagID": "GTM-THGGF6V",
+        "googleConversionIDs": {}
+      }
+    },
+    "logoWidth": null,
+    "logoHeight": null,
+    "socialIcons": "white",
+    "googleSiteVerification": "EU8VkqgMglWCuoKPRw199geafjCwPv_aK18gsC-u91o"
+  },
+  "mapsKey": null,
+  "cancelAddons": false,
+  "disablePassword": false,
+  "useDeprecatedMembershipConfigForAppsite": false,
+  "subdomain": "mygymboutique",
+  "streamingArchive3qProjectID": null,
+  "liveClassesFromExternalAppsite": null,
+  "streamingArchiveDefaultDays": 10,
+  "disableStreamingArchive": false,
+  "appIcon": {
+    "assetID": "44K1IZZQSYSGpzZJPk8CHA",
+    "caption": "",
+    "file": {
+      "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024.png",
+      "size": 59586,
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      }
+    },
+    "fileVariants": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_800.png",
+        "size": 58812,
+        "resolution": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_300.png",
+        "size": 17312,
+        "resolution": {
+          "width": 300,
+          "height": 300
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_80.png",
+        "size": 4257,
+        "resolution": {
+          "width": 80,
+          "height": 80
+        }
+      }
+    ],
+    "mimetype": "image/png",
+    "thumbnails": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_160_thumb.png",
+        "dimension": 160
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_200_thumb.png",
+        "dimension": 200
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_400_thumb.png",
+        "dimension": 400
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/44K1IZZQSYSGpzZJPk8CHA/Logo-1024_60_thumb.png",
+        "dimension": 60
+      }
+    ],
+    "title": "Logo-1024",
+    "type": "image"
+  },
+  "splashScreen": {
+    "assetID": "vgv1h5lFQWuwzEs2-B-20A",
+    "caption": "",
+    "file": {
+      "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen.png",
+      "size": 103644,
+      "resolution": {
+        "width": 1242,
+        "height": 2436
+      }
+    },
+    "fileVariants": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_1600.png",
+        "size": 59431,
+        "resolution": {
+          "width": 816,
+          "height": 1600
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_800.png",
+        "size": 25378,
+        "resolution": {
+          "width": 408,
+          "height": 800
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_300.png",
+        "size": 8873,
+        "resolution": {
+          "width": 153,
+          "height": 300
+        }
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_80.png",
+        "size": 1818,
+        "resolution": {
+          "width": 41,
+          "height": 80
+        }
+      }
+    ],
+    "mimetype": "image/png",
+    "thumbnails": [
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_160_thumb.png",
+        "dimension": 160
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_200_thumb.png",
+        "dimension": 200
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_400_thumb.png",
+        "dimension": 400
+      },
+      {
+        "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/vgv1h5lFQWuwzEs2-B-20A/Splash-Screen_60_thumb.png",
+        "dimension": 60
+      }
+    ],
+    "title": "Splash-Screen",
+    "type": "image"
+  },
+  "appTitle": "MYGYM Boutique",
+  "screenshots": [],
+  "scheme": "qfit-ca",
+  "actinateConfig": {
+    "global": {}
+  },
+  "upselling": []
+}

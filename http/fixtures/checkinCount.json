@@ -1,0 +1,18 @@
+[
+  {
+    "studioNumber": "IEA$1",
+    "frequentation": 0.27,
+    "lastUpdated": "2022-05-18T18:38:22",
+    "backendId": "IEA",
+    "title": "MYGYM Boutique",
+    "address": {
+      "zipCode": "12489",
+      "street": "Eisenhutweg 124",
+      "city": "Berlin",
+      "countryCode": "DE"
+    },
+    "contact": { "email": "", "telefax": "", "phone": "" },
+    "location": { "latitude": 52.4288369, "longitude": 13.5144464 },
+    "speakingUrl": "startseite"
+  }
+]

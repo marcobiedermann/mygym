@@ -1,0 +1,64 @@
+{
+  "activation": {
+    "addonBookedSuccess": "Das Addon wurde erfolgreich gebucht.",
+    "addonsCTA": "Addons buchen",
+    "addonsIntro": "Dein Abo, so individuell wie du: buche dir alle Zusatzleistungen, die du für die Erreichung deiner Ziele nutzen willst, direkt hier hinzu.",
+    "alreadyActivatedError": "Account wurde bereits aktiviert!",
+    "generalError": "Fehler bei der Aktivierung!",
+    "generalSuccess": "Aktivierung erfolgreich.",
+    "intro": "Verwalte deine Mitgliedschaft jetzt ganz einfach online im Mitgliederbereich!",
+    "membershipSuccess": "Deine Mitgliedschaft wurde aktiviert.",
+    "outdatedTokenError": "Der Aktivierungslink ist abgelaufen.",
+    "shopCTA": "Zum Online Shop",
+    "shopIntro": "Hier bekommst du alles, was du für dein optimales Training brauchst &ndash; mit dem Best Price Addon auch noch zum besten Preis!",
+    "signupSuccess": "Dein Account wurde erfolgreich registriert."
+  },
+  "addons": {
+    "orderNow": "Kostenpflichtig bestellen"
+  },
+  "app": {
+    "dashboardCTA": "Gemeinsam trainieren ist stark!",
+    "punishmentInfo": null
+  },
+  "errors": {
+    "loginPrompt": "Du musst angemeldet sein, um diesen Inhalt zu sehen",
+    "minAge": "Um die Mitgliedschaft online abzuschließen musst du mindestens {{min}} Jahre alt sein. Bitte wende dich direkt an den Club.",
+    "noViewPermission": "Du besitzt keine Rechte, um diesen Inhalt zu sehen."
+  },
+  "membership": {
+    "acceptAGB": "Hiermit bestätige ich, dass ich die AGB zur Kenntnis genommen habe.",
+    "acceptPrivacy": "Hiermit bestätige ich, dass ich die Datenschutzerklärung zur Kenntnis genommen habe.",
+    "formCTA": "Wir bitten um notwendige Daten für die Anmeldung",
+    "success": "Du erhältst nach erfolgreicher Verarbeitung eine E-Mail{% if email %} an **{{email}}**{% endif %} mit einem Bestätigungslink, damit Du Deine Mitgliedschaft aktivieren kannst."
+  },
+  "onlineTraining": {
+    "CTA": "So bleibst du auch Zuhause fit!",
+    "homeGym": {
+      "button": "Zu den On-Demand Kursen",
+      "error": "Fehler: Trainingsapp kann nicht geöffnet werden.",
+      "intro": "Mit HOMEGYM+ hast du über 1.000 Online-Kurse immer und überall mit dabei.",
+      "title": "On-Demand Kurse"
+    },
+    "intro": "ONLINE FITNESSSTUDIO",
+    "liveClasses": {
+      "button": "Zu den Live-Kursen",
+      "error": "Du musst angemeldet sein um Live-Kurse zu sehen.",
+      "intro": "Tägliche Kurse mit Deinen Lieblingstrainern – live mitmachen oder bis zu 10 Tage lang in der Mediathek aufrufen.",
+      "title": "Live-Kurse"
+    },
+    "trainingApp": {
+      "button": "Zur Trainingsapp",
+      "error": "Du musst angemeldet sein um Live-Kurse zu sehen.",
+      "intro": "Individuelle Trainingspläne und Übungen ohne Equipment gibt’s in unserer Trainings-App.",
+      "title": "Workouts für Zuhause"
+    }
+  },
+  "profile": {
+    "clubLabel": "Mein Club:"
+  },
+  "referral": {
+    "bannerIntro": "Schenke deinen Freunden [4 Wochen Fitness]",
+    "bannerText": "Für jeden neuen Trainings-Partner erhältst du **10€ Bistroguthaben**",
+    "profileCTA": "Verschenke 4 Wochen Fitness kostenlos. Für jeden neuen Trainingspartner erhältst du 10€ Bistroguthaben."
+  }
+}

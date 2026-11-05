@@ -1,0 +1,57 @@
+{
+  "errors": false,
+  "me": {
+    "id": "REDACTED",
+    "defaultStudioNumber": "IEA$1",
+    "isCheckinBlocked": false,
+    "status": "Mitglied",
+    "address": {
+      "street": "REDACTED",
+      "zipCode": "REDACTED",
+      "city": "REDACTED",
+      "countryCode": "DE",
+      "co": null
+    },
+    "personalData": {
+      "name": "REDACTED",
+      "surname": "REDACTED",
+      "birthday": "REDACTED",
+      "gender": "REDACTED",
+      "title": null
+    },
+    "contact": {
+      "mobile": "REDACTED",
+      "phone": null,
+      "email": "REDACTED",
+      "telefax": null,
+      "web": null,
+      "subscribeToNewsletter": false
+    },
+    "paymentInformation": {
+      "paymentType": "SepaDirectDebit",
+      "bankAccount": {
+        "iban": "REDACTED",
+        "bic": "REDACTED",
+        "accountOwner": "REDACTED",
+        "bankName": "REDACTED"
+      },
+      "sepaMandate": {
+        "signatureDate": "2022-05-16",
+        "mandateReference": "REDACTED"
+      },
+      "stopDirectDebit": false
+    },
+    "supervisorId": null,
+    "recruiterId": null,
+    "company": null,
+    "company2": null,
+    "isActive": true,
+    "userId": "REDACTED",
+    "backendId": "IEA"
+  },
+  "balanceInformation": {
+    "bistroAccountBalance": 0,
+    "membershipAccountBalance": 0
+  },
+  "sales": []
+}

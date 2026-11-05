@@ -1,0 +1,103 @@
+{
+  "app": {},
+  "seo": {
+    "membershipReferralFeatures": []
+  },
+  "seca": {
+    "addon": ["VCTYLAAEf"],
+    "default": [
+      "singleValueCharts.renderBodyComposition",
+      "singleValueCharts.renderBodyMassIndex",
+      "singleValueCharts.renderWeight"
+    ],
+    "premium": [
+      "singleValueCharts.renderBIVA",
+      "trendCharts.renderBIVA",
+      "singleValueCharts.renderBodyComposition",
+      "trendCharts.renderBodyComposition",
+      "singleValueCharts.renderBodyMassIndex",
+      "trendCharts.renderBodyMassIndex",
+      "singleValueCharts.renderFatMassPercentage",
+      "trendCharts.renderFatMassPercentage",
+      "singleValueCharts.renderPhaseAngle",
+      "trendCharts.renderPhaseAngle",
+      "singleValueCharts.renderSegmentalSkeletalMuscleMass",
+      "singleValueCharts.renderSegmentalSkeletalMuscleMassBMIIndependant",
+      "trendCharts.renderSegmentalSkeletalMuscleMass",
+      "singleValueCharts.renderSkeletalMuscleMass",
+      "trendCharts.renderSkeletalMuscleMass",
+      "singleValueCharts.renderSkeletalMuscleMassOverAge",
+      "trendCharts.renderSkeletalMuscleMassOverAge",
+      "trendCharts.renderSkeletalMuscleMassOverAgeBMIIndependant",
+      "trendCharts.renderSegmentalSkeletalMuscleMassBMIIndependant",
+      "singleValueCharts.renderSkeletalMuscleMassOverAgeBMIIndependant",
+      "singleValueCharts.renderTruBodyScore",
+      "trendCharts.renderTruBodyScore",
+      "singleValueCharts.renderVisceralAdiposeTissue",
+      "trendCharts.renderVisceralAdiposeTissue",
+      "singleValueCharts.renderWaistCircumference",
+      "trendCharts.renderWaistCircumference",
+      "singleValueCharts.renderWater",
+      "singleValueCharts.renderWaterRatio",
+      "trendCharts.renderWaterRatio",
+      "singleValueCharts.renderWeight",
+      "trendCharts.renderWeight"
+    ],
+    "premiumBook": "Addon buchen",
+    "premiumHint": "Schalte alle Daten deiner Körperanalyse frei.",
+    "noValuesHint": "Es liegen noch keine Messungen vor."
+  },
+  "visibility": {
+    "abos": true,
+    "seca": true,
+    "sepa": true,
+    "addons": true,
+    "bistro": true,
+    "aboDebt": true,
+    "classes": false,
+    "profile": true,
+    "checkins": true,
+    "messages": true,
+    "referral": true,
+    "register": true,
+    "membership": true,
+    "voucherBuy": true,
+    "covidUpload": true,
+    "bistroCharge": true
+  },
+  "covidUpload": {
+    "global": {
+      "mode": "disabled",
+      "text": "",
+      "infoURL": ""
+    }
+  },
+  "visibilityApp": {
+    "abos": true,
+    "seca": true,
+    "sepa": true,
+    "addons": true,
+    "bistro": true,
+    "aboDebt": true,
+    "classes": false,
+    "profile": true,
+    "checkins": true,
+    "messages": true,
+    "referral": true,
+    "register": true,
+    "checkinQR": true,
+    "membership": true,
+    "voucherBuy": true,
+    "covidUpload": true,
+    "bistroCharge": true,
+    "checkinCount": true,
+    "threeGUpload": true
+  },
+  "threeGUpload": {
+    "global": {
+      "mode": "disabled",
+      "text": "",
+      "infoURL": ""
+    }
+  }
+}

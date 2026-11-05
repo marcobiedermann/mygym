@@ -1,0 +1,61 @@
+@baseUrl = https://www.mygym-boutique.de/api
+
+###
+# Check In Count
+# Example response: ./fixtures/checkinCount.json
+GET {{baseUrl}}/checkinCount
+Accept: application/json
+
+###
+# Clubs
+# Example response: ./fixtures/clubs.json
+GET {{baseUrl}}/clubs
+Accept: application/json
+
+###
+# My
+# Example response: ./fixtures/me-account.json
+GET {{baseUrl}}/me/account
+Accept: application/json
+
+###
+# My Bistro
+# Example response: ./fixtures/me-bistro.json
+GET {{baseUrl}}/me/bistro
+Accept: application/json
+
+###
+# My Check-Ins
+# Example response: ./fixtures/me-checkins.json
+GET {{baseUrl}}/me/checkins
+Accept: application/json
+
+###
+# My Membership
+# Example response: ./fixtures/me-mitgliedschaft.json
+GET {{baseUrl}}/me/mitgliedschaft
+Accept: application/json
+
+###
+# My Punishments
+# Example response: ./fixtures/me-punishment.json
+GET {{baseUrl}}/me/punishment
+Accept: application/json
+
+###
+# Module Settings
+# Example response: ./fixtures/module-settings.json
+GET {{baseUrl}}/module-settings
+Accept: application/json
+
+###
+# Settings
+# Example response: ./fixtures/settings.json
+GET {{baseUrl}}/settings
+Accept: application/json
+
+###
+# Text
+# Example response: ./fixtures/text.json
+GET {{baseUrl}}/text
+Accept: application/json

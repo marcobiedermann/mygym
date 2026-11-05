@@ -1,0 +1,86 @@
+{
+  "errors": false,
+  "me": {
+    "id": "REDACTED",
+    "defaultStudioNumber": "IEA$1",
+    "isCheckinBlocked": false,
+    "status": "Mitglied",
+    "address": {
+      "street": "REDACTED",
+      "zipCode": "REDACTED",
+      "city": "REDACTED",
+      "countryCode": "DE",
+      "co": null
+    },
+    "personalData": {
+      "name": "REDACTED",
+      "surname": "REDACTED",
+      "birthday": "REDACTED",
+      "gender": "REDACTED",
+      "title": null
+    },
+    "contact": {
+      "mobile": "REDACTED",
+      "phone": null,
+      "email": "REDACTED",
+      "telefax": null,
+      "web": null,
+      "subscribeToNewsletter": false
+    },
+    "paymentInformation": {
+      "paymentType": "SepaDirectDebit",
+      "bankAccount": {
+        "iban": "REDACTED",
+        "bic": "REDACTED",
+        "accountOwner": "REDACTED",
+        "bankName": "REDACTED"
+      },
+      "sepaMandate": {
+        "signatureDate": "2022-05-16",
+        "mandateReference": "REDACTED"
+      },
+      "stopDirectDebit": false
+    },
+    "supervisorId": null,
+    "recruiterId": null,
+    "company": null,
+    "company2": null,
+    "isActive": true,
+    "userId": "REDACTED",
+    "backendId": "IEA"
+  },
+  "checkins": [
+    {
+      "studioName": "MYGYM Boutique Adlershof",
+      "studioId": "IEA$1",
+      "checkedIn": "2022-05-25T16:34:49",
+      "checkedOut": "2022-05-25T17:36:06",
+      "backendId": "IEA",
+      "duration": "PT1H1M17S"
+    },
+    {
+      "studioName": "MYGYM Boutique Adlershof",
+      "studioId": "IEA$1",
+      "checkedIn": "2022-05-21T20:20:17",
+      "checkedOut": "2022-05-21T21:25:24",
+      "backendId": "IEA",
+      "duration": "PT1H5M7S"
+    },
+    {
+      "studioName": "MYGYM Boutique Adlershof",
+      "studioId": "IEA$1",
+      "checkedIn": "2022-05-19T19:22:34",
+      "checkedOut": "2022-05-19T20:35:57",
+      "backendId": "IEA",
+      "duration": "PT1H13M23S"
+    },
+    {
+      "studioName": "MYGYM Boutique Adlershof",
+      "studioId": "IEA$1",
+      "checkedIn": "2022-05-16T20:36:17",
+      "checkedOut": "2022-05-16T21:22:27",
+      "backendId": "IEA",
+      "duration": "PT46M10S"
+    }
+  ]
+}

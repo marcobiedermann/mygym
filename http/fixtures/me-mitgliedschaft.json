@@ -1,0 +1,559 @@
+{
+  "errors": false,
+  "me": {
+    "id": "REDACTED",
+    "defaultStudioNumber": "IEA$1",
+    "isCheckinBlocked": false,
+    "status": "Mitglied",
+    "address": {
+      "street": "REDACTED",
+      "zipCode": "REDACTED",
+      "city": "REDACTED",
+      "countryCode": "DE",
+      "co": null
+    },
+    "personalData": {
+      "name": "REDACTED",
+      "surname": "REDACTED",
+      "birthday": "REDACTED",
+      "gender": "REDACTED",
+      "title": null
+    },
+    "contact": {
+      "mobile": "REDACTED",
+      "phone": null,
+      "email": "REDACTED",
+      "telefax": null,
+      "web": null,
+      "subscribeToNewsletter": false
+    },
+    "paymentInformation": {
+      "paymentType": "SepaDirectDebit",
+      "bankAccount": {
+        "iban": "REDACTED",
+        "bic": "REDACTED",
+        "accountOwner": "REDACTED",
+        "bankName": "REDACTED"
+      },
+      "sepaMandate": {
+        "signatureDate": "2022-05-16",
+        "mandateReference": "REDACTED"
+      },
+      "stopDirectDebit": false
+    },
+    "supervisorId": null,
+    "recruiterId": null,
+    "company": null,
+    "company2": null,
+    "isActive": true,
+    "userId": "REDACTED",
+    "backendId": "IEA"
+  },
+  "addonBookingsPending": {},
+  "contractsDefault": [
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Special",
+      "name": "Jährliche Verwaltungsgebühr",
+      "pricePerInterval": 29.9,
+      "blockUnitsAvailable": null,
+      "interval": "P12M",
+      "duration": "P12M",
+      "renewal": "P12M",
+      "termination": "P1M",
+      "begin": "2022-05-16",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-16",
+      "created": "2022-05-16",
+      "terminationBefore": "2023-04-15",
+      "templateId": "IEA$1",
+      "possibleDateOfEnd": "2023-05-15",
+      "cancelledOn": "",
+      "cancelledTo": "",
+      "isMainContract": false,
+      "entranceFee": 0,
+      "partialFee": null,
+      "additionalFees": [],
+      "limits": [],
+      "freeTestingPhaseActivated": true,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 15,
+      "testphaseActivation": true,
+      "backendId": "IEA"
+    },
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Default",
+      "name": "Flexi Abo",
+      "pricePerInterval": 29.9,
+      "blockUnitsAvailable": null,
+      "interval": "P1M",
+      "duration": "P1M",
+      "renewal": "P1M",
+      "termination": "P1M",
+      "begin": "2022-06-01",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-16",
+      "created": "2022-05-16",
+      "terminationBefore": "2022-05-31",
+      "templateId": "IEA$2",
+      "possibleDateOfEnd": "2022-06-30",
+      "cancelledOn": "",
+      "cancelledTo": "",
+      "isMainContract": true,
+      "entranceFee": 0,
+      "partialFee": 0.96,
+      "additionalFees": [
+        {
+          "note": null,
+          "dueDate": "2022-05-31",
+          "amount": 0
+        }
+      ],
+      "limits": [
+        {
+          "type": 1,
+          "name": "Wasserm.",
+          "available": 1,
+          "interval": "täglich"
+        }
+      ],
+      "freeTestingPhaseActivated": true,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 15,
+      "testphaseActivation": true,
+      "backendId": "IEA"
+    },
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Default",
+      "name": "Rabatt Flexi Abo",
+      "pricePerInterval": -5,
+      "blockUnitsAvailable": null,
+      "interval": "P1M",
+      "duration": "P3M",
+      "renewal": "",
+      "termination": "P0W",
+      "begin": "2022-06-01",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-31",
+      "created": "2022-05-16",
+      "terminationBefore": "",
+      "templateId": "IEA$10",
+      "possibleDateOfEnd": "2022-08-31",
+      "cancelledOn": "2022-05-17",
+      "cancelledTo": "2022-08-31",
+      "isMainContract": false,
+      "entranceFee": 0,
+      "partialFee": -0.16,
+      "additionalFees": [],
+      "limits": [],
+      "freeTestingPhaseActivated": false,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 0,
+      "testphaseActivation": false,
+      "backendId": "IEA"
+    }
+  ],
+  "contractsBlockUnits": [],
+  "contractsTerminated": [],
+  "currentContracts": [
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Special",
+      "name": "Jährliche Verwaltungsgebühr",
+      "pricePerInterval": 29.9,
+      "blockUnitsAvailable": null,
+      "interval": "P12M",
+      "duration": "P12M",
+      "renewal": "P12M",
+      "termination": "P1M",
+      "begin": "2022-05-16",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-16",
+      "created": "2022-05-16",
+      "terminationBefore": "2023-04-15",
+      "templateId": "IEA$1",
+      "possibleDateOfEnd": "2023-05-15",
+      "cancelledOn": "",
+      "cancelledTo": "",
+      "isMainContract": false,
+      "entranceFee": 0,
+      "partialFee": null,
+      "additionalFees": [],
+      "limits": [],
+      "freeTestingPhaseActivated": true,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 15,
+      "testphaseActivation": true,
+      "backendId": "IEA"
+    },
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Default",
+      "name": "MY Drink Abo",
+      "pricePerInterval": 8.62,
+      "blockUnitsAvailable": null,
+      "interval": "P1M",
+      "duration": "P1M",
+      "renewal": "P1M",
+      "termination": "P1M",
+      "begin": "2022-06-01",
+      "paymentBegin": "2022-06-14",
+      "accessGranted": "2022-05-16",
+      "created": "2022-05-16",
+      "terminationBefore": "2022-05-31",
+      "templateId": "IEA$4",
+      "possibleDateOfEnd": "2022-06-30",
+      "cancelledOn": "",
+      "cancelledTo": "",
+      "isMainContract": false,
+      "entranceFee": 0,
+      "partialFee": 4.88,
+      "additionalFees": [],
+      "limits": [],
+      "freeTestingPhaseActivated": true,
+      "isAddon": true,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 29,
+      "testphaseActivation": true,
+      "backendId": "IEA"
+    },
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Default",
+      "name": "Flexi Abo",
+      "pricePerInterval": 29.9,
+      "blockUnitsAvailable": null,
+      "interval": "P1M",
+      "duration": "P1M",
+      "renewal": "P1M",
+      "termination": "P1M",
+      "begin": "2022-06-01",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-16",
+      "created": "2022-05-16",
+      "terminationBefore": "2022-05-31",
+      "templateId": "IEA$2",
+      "possibleDateOfEnd": "2022-06-30",
+      "cancelledOn": "",
+      "cancelledTo": "",
+      "isMainContract": true,
+      "entranceFee": 0,
+      "partialFee": 0.96,
+      "additionalFees": [
+        {
+          "note": null,
+          "dueDate": "2022-05-31",
+          "amount": 0
+        }
+      ],
+      "limits": [
+        {
+          "type": 1,
+          "name": "Wasserm.",
+          "available": 1,
+          "interval": "täglich"
+        }
+      ],
+      "freeTestingPhaseActivated": true,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 15,
+      "testphaseActivation": true,
+      "backendId": "IEA"
+    },
+    {
+      "id": "REDACTED",
+      "customerId": 000,
+      "type": "Default",
+      "name": "Rabatt Flexi Abo",
+      "pricePerInterval": -5,
+      "blockUnitsAvailable": null,
+      "interval": "P1M",
+      "duration": "P3M",
+      "renewal": "",
+      "termination": "P0W",
+      "begin": "2022-06-01",
+      "paymentBegin": "2022-05-31",
+      "accessGranted": "2022-05-31",
+      "created": "2022-05-16",
+      "terminationBefore": "",
+      "templateId": "IEA$10",
+      "possibleDateOfEnd": "2022-08-31",
+      "cancelledOn": "2022-05-17",
+      "cancelledTo": "2022-08-31",
+      "isMainContract": false,
+      "entranceFee": 0,
+      "partialFee": -0.16,
+      "additionalFees": [],
+      "limits": [],
+      "freeTestingPhaseActivated": false,
+      "isAddon": false,
+      "creationComplete": true,
+      "deleted": false,
+      "followUpContractId": null,
+      "studioNumber": 1,
+      "testphaseDuration": 0,
+      "testphaseActivation": false,
+      "backendId": "IEA"
+    }
+  ],
+  "balanceInformation": {
+    "bistroAccountBalance": 0,
+    "membershipAccountBalance": 0
+  },
+  "addons": [
+    {
+      "name": "MY Seca Körperdiagnostik",
+      "id": "VCTYLAAEf",
+      "type": "Default",
+      "interval": "P1M",
+      "pricePerInterval": 4.29,
+      "duration": "P1M",
+      "renewal": "P1M",
+      "termination": "P1M",
+      "terminationInterval": "P1M",
+      "entranceFee": 0,
+      "isMainContract": false,
+      "freeTestingPhase": 15,
+      "isAddon": true,
+      "customerId": null,
+      "customerHadFreeTestingPhaseBefore": null,
+      "backendId": "IEA",
+      "_entryTitle": "IEA$14",
+      "created": "2022-03-24T09:31:29.095Z",
+      "modified": "2022-04-05T11:44:30.344Z",
+      "remoteID": "IEA$14",
+      "active": true,
+      "upselling": false,
+      "terminal": false,
+      "title": "Seca Körperdiagnostik",
+      "description": "Du erhältst ein genaues Bild der Körperzusammensetzung und des Trainingszustands, somit wird jeder Muskelzuwachs und jeder Fettabbau sofort sichtbar. Das motiviert und bietet Dir Orientierung beim Erreichen der Fitnessziele. Deine Messergebnisse kannst du direkt über die Club APP abrufen.\n\nSeca bietet die Möglichkeit, Muskeln und Fettmasse zu messen und so die Gesundheitsrisiken einzuschätzen. Sie können ihr Fitness-Level sofort einschätzen und in Verlaufsmessungen eine positive Entwicklung zeigen. Dadurch ist der gesunde Zielbereich klar definiert und Motivation wird geweckt.",
+      "_assets_description": [],
+      "_assets_terms": [],
+      "_assets_additionalTerminalTerms": [],
+      "images": [
+        {
+          "assetID": "bd9X49FqSVuO3kaP7kPqpw",
+          "caption": "",
+          "file": {
+            "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw/seca_TRU-visual_web.jpg",
+            "size": 62595,
+            "resolution": {
+              "width": 595,
+              "height": 842
+            }
+          },
+          "fileVariants": [
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw/seca_TRU-visual_web_800.jpg",
+              "size": 50954,
+              "resolution": {
+                "width": 565,
+                "height": 800
+              }
+            }
+          ],
+          "mimetype": "image/jpeg",
+          "thumbnails": [
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw/seca_TRU-visual_web_160_thumb.jpg",
+              "dimension": 160
+            },
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw/seca_TRU-visual_web_200_thumb.jpg",
+              "dimension": 200
+            },
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw/seca_TRU-visual_web_400_thumb.jpg",
+              "dimension": 400
+            }
+          ],
+          "title": "seca_TRU-visual_web",
+          "type": "image",
+          "_links": {
+            "self": [
+              {
+                "profile": "https://schema.entrecode.de/schema-data/dm-asset",
+                "href": "https://datamanager.entrecode.de/a/5c0d04ea/settings-images/bd9X49FqSVuO3kaP7kPqpw",
+                "templated": false
+              }
+            ],
+            "ec:dm-asset/file-variant": [
+              {
+                "href": "https://datamanager.entrecode.de/f/5c0d04ea/bd9X49FqSVuO3kaP7kPqpw/{size}",
+                "templated": true
+              }
+            ],
+            "ec:dm-asset/thumbnail": [
+              {
+                "href": "https://datamanager.entrecode.de/t/5c0d04ea/bd9X49FqSVuO3kaP7kPqpw/{size}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      "current": false,
+      "terminated": false,
+      "pending": false,
+      "freeTestingPhaseActivated": true
+    },
+    {
+      "name": "MY Drink Abo",
+      "id": "pP_McnDEdU",
+      "type": "Default",
+      "interval": "P1M",
+      "pricePerInterval": 8.62,
+      "duration": "P1M",
+      "renewal": "P1M",
+      "termination": "P1M",
+      "terminationInterval": "P1M",
+      "entranceFee": 0,
+      "isMainContract": false,
+      "freeTestingPhase": 29,
+      "isAddon": true,
+      "customerId": null,
+      "customerHadFreeTestingPhaseBefore": null,
+      "backendId": "IEA",
+      "_entryTitle": "IEA$4",
+      "created": "2022-04-25T09:51:55.664Z",
+      "modified": "2022-04-25T09:54:01.230Z",
+      "remoteID": "IEA$4",
+      "active": true,
+      "upselling": false,
+      "terminal": false,
+      "title": "MY DRINK Abo",
+      "description": "Mit dem MY DRINK Abo kannst Du Getränke aus unserer Getränkebar konsumieren und unbeschränkt, kostenlos nach Bedarf nachfüllen. Dir stehen gekühlte Mineralgetränke, Wasser mit und ohne Kohlensäure, sowie natürliche Apfelsaftschorle und Trainings-Booster zur Verfügung.",
+      "_assets_description": [],
+      "terms": "Einmalige kostenlose Testphase von 28 Tagen, regulär € 1,99 / Woche.\nStorno innerhalb der Testphase täglich am AddOn-Terminal möglich. Ausspruch des Stornos in dieser Zeit ist die Gratis-Testphase und auch das AddOn sofort beendet. Wenn kein Storno ausgesprochen wird erfolgt nach Ablauf der Testphase die erste Abbuchung des anteiligen Beitrages. Das AddOn ist mit einer Frist von 1 Monat zum Monatsletzten kündbar. Das AddOn kann nur in Verbindung mit dem MYGYM Hauptabo, entsprechend den Stilllegungsbedingungen der Mitgliedschaft, pausiert werden. Das AddOn ist nicht übertragbar. Bei Missbrauch wird eine Gebühr von € 25,- fällig. \n",
+      "_assets_terms": [],
+      "_assets_additionalTerminalTerms": [],
+      "images": [
+        {
+          "assetID": "lpeGNw0WTnqOp5otZvtT3g",
+          "caption": "",
+          "file": {
+            "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/lpeGNw0WTnqOp5otZvtT3g/MYG-DRINK_1600.jpeg",
+            "size": 116845,
+            "resolution": {
+              "width": 1600,
+              "height": 900
+            }
+          },
+          "fileVariants": [
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/lpeGNw0WTnqOp5otZvtT3g/MYG-DRINK_1600_1600.jpeg",
+              "size": 117166,
+              "resolution": {
+                "width": 1600,
+                "height": 900
+              }
+            }
+          ],
+          "mimetype": "image/jpeg",
+          "thumbnails": [
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/lpeGNw0WTnqOp5otZvtT3g/MYG-DRINK_1600_160_thumb.jpeg",
+              "dimension": 160
+            },
+            {
+              "url": "https://www.mygym-boutique.de/5c0d04ea/settings-images/lpeGNw0WTnqOp5otZvtT3g/MYG-DRINK_1600_400_thumb.jpeg",
+              "dimension": 400
+            }
+          ],
+          "title": "MYG-DRINK_1600",
+          "type": "image",
+          "_links": {
+            "self": [
+              {
+                "profile": "https://schema.entrecode.de/schema-data/dm-asset",
+                "href": "https://datamanager.entrecode.de/a/5c0d04ea/settings-images/lpeGNw0WTnqOp5otZvtT3g",
+                "templated": false
+              }
+            ],
+            "ec:dm-asset/file-variant": [
+              {
+                "href": "https://datamanager.entrecode.de/f/5c0d04ea/lpeGNw0WTnqOp5otZvtT3g/{size}",
+                "templated": true
+              }
+            ],
+            "ec:dm-asset/thumbnail": [
+              {
+                "href": "https://datamanager.entrecode.de/t/5c0d04ea/lpeGNw0WTnqOp5otZvtT3g/{size}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      "current": {
+        "id": "REDACTED",
+        "customerId": 000,
+        "type": "Default",
+        "name": "MY Drink Abo",
+        "pricePerInterval": 8.62,
+        "blockUnitsAvailable": null,
+        "interval": "P1M",
+        "duration": "P1M",
+        "renewal": "P1M",
+        "termination": "P1M",
+        "begin": "2022-06-01",
+        "paymentBegin": "2022-06-14",
+        "accessGranted": "2022-05-16",
+        "created": "2022-05-16",
+        "terminationBefore": "2022-05-31",
+        "templateId": "IEA$4",
+        "possibleDateOfEnd": "2022-06-30",
+        "cancelledOn": "",
+        "cancelledTo": "",
+        "isMainContract": false,
+        "entranceFee": 0,
+        "partialFee": 4.88,
+        "additionalFees": [],
+        "limits": [],
+        "freeTestingPhaseActivated": true,
+        "isAddon": true,
+        "creationComplete": true,
+        "deleted": false,
+        "followUpContractId": null,
+        "studioNumber": 1,
+        "testphaseDuration": 29,
+        "testphaseActivation": true,
+        "backendId": "IEA"
+      },
+      "terminated": false,
+      "pending": false,
+      "freeTestingPhaseActivated": true
+    }
+  ]
+}
