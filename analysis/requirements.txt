@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+holidays
+nbconvert
+nbformat
+ipykernel
