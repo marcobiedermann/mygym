@@ -23,4 +23,5 @@ jobs:
       - name: Execute notebook
         run: jupyter nbconvert --to notebook --execute --inplace analysis/frequentation.ipynb
       - name: Commit changes
-        run: ./scripts/commit-if-changed.sh "chore: update frequentation analysis" analysis/frequentation.ipynb
+        run: |
+          ./scripts/commit-if-changed.sh "chore: update frequentation analysis" analysis/frequentation.ipynb
