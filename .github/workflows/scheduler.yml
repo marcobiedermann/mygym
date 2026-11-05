@@ -15,4 +15,5 @@ jobs:
       - name: Log frequentation
         run: ./scripts/log-frequentation.sh 'IEA$1'
       - name: Commit changes
-        run: ./scripts/commit-if-changed.sh 'chore: add report' .
+        run: |
+          ./scripts/commit-if-changed.sh "chore: add report" .
