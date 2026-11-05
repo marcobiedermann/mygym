@@ -1,0 +1,26 @@
+name: Frequentation Analysis
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: analysis/requirements.txt
+      - name: Install dependencies
+        run: pip install -r analysis/requirements.txt
+      - name: Execute notebook
+        run: jupyter nbconvert --to notebook --execute --inplace analysis/frequentation.ipynb
+      - name: Commit changes
+        run: ./scripts/commit-if-changed.sh "chore: update frequentation analysis" analysis/frequentation.ipynb
