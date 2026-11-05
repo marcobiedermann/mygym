@@ -1,4 +1,4 @@
-@baseUrl = https://www.mygym-boutique.de/api
+@baseUrl = https://www.mygym.de/api
 
 ###
 # Check In Count

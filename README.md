@@ -9,7 +9,7 @@ Requests live in [`http/api.http`](http/api.http) (VSCode REST Client); example 
 ### Check In Count
 
 ```http
-GET https://www.mygym-boutique.de/api/checkinCount
+GET https://www.mygym.de/api/checkinCount
 ```
 
 Example response: [`http/fixtures/checkinCount.json`](http/fixtures/checkinCount.json)
@@ -17,7 +17,7 @@ Example response: [`http/fixtures/checkinCount.json`](http/fixtures/checkinCount
 ### Clubs
 
 ```http
-GET https://www.mygym-boutique.de/api/clubs
+GET https://www.mygym.de/api/clubs
 ```
 
 Example response: [`http/fixtures/clubs.json`](http/fixtures/clubs.json)
@@ -27,7 +27,7 @@ Example response: [`http/fixtures/clubs.json`](http/fixtures/clubs.json)
 #### My
 
 ```http
-GET https://www.mygym-boutique.de/api/me/account
+GET https://www.mygym.de/api/me/account
 ```
 
 Example response: [`http/fixtures/me-account.json`](http/fixtures/me-account.json)
@@ -35,7 +35,7 @@ Example response: [`http/fixtures/me-account.json`](http/fixtures/me-account.jso
 #### My Bistro
 
 ```http
-GET https://www.mygym-boutique.de/api/me/bistro
+GET https://www.mygym.de/api/me/bistro
 ```
 
 Example response: [`http/fixtures/me-bistro.json`](http/fixtures/me-bistro.json)
@@ -43,7 +43,7 @@ Example response: [`http/fixtures/me-bistro.json`](http/fixtures/me-bistro.json)
 #### My Check-Ins
 
 ```http
-GET https://www.mygym-boutique.de/api/me/checkins
+GET https://www.mygym.de/api/me/checkins
 ```
 
 Example response: [`http/fixtures/me-checkins.json`](http/fixtures/me-checkins.json)
@@ -51,7 +51,7 @@ Example response: [`http/fixtures/me-checkins.json`](http/fixtures/me-checkins.j
 #### My Membership
 
 ```http
-GET https://www.mygym-boutique.de/api/me/mitgliedschaft
+GET https://www.mygym.de/api/me/mitgliedschaft
 ```
 
 Example response: [`http/fixtures/me-mitgliedschaft.json`](http/fixtures/me-mitgliedschaft.json)
@@ -59,7 +59,7 @@ Example response: [`http/fixtures/me-mitgliedschaft.json`](http/fixtures/me-mitg
 #### My Punishments
 
 ```http
-GET https://www.mygym-boutique.de/api/me/punishment
+GET https://www.mygym.de/api/me/punishment
 ```
 
 Example response: [`http/fixtures/me-punishment.json`](http/fixtures/me-punishment.json)
@@ -67,7 +67,7 @@ Example response: [`http/fixtures/me-punishment.json`](http/fixtures/me-punishme
 ### Module Settings
 
 ```http
-GET https://www.mygym-boutique.de/api/module-settings
+GET https://www.mygym.de/api/module-settings
 ```
 
 Example response: [`http/fixtures/module-settings.json`](http/fixtures/module-settings.json)
@@ -75,7 +75,7 @@ Example response: [`http/fixtures/module-settings.json`](http/fixtures/module-se
 ### Settings
 
 ```http
-GET https://www.mygym-boutique.de/api/settings
+GET https://www.mygym.de/api/settings
 ```
 
 Example response: [`http/fixtures/settings.json`](http/fixtures/settings.json)
@@ -83,7 +83,7 @@ Example response: [`http/fixtures/settings.json`](http/fixtures/settings.json)
 ### Text
 
 ```http
-GET https://www.mygym-boutique.de/api/text
+GET https://www.mygym.de/api/text
 ```
 
 Example response: [`http/fixtures/text.json`](http/fixtures/text.json)
