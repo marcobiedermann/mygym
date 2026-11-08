@@ -5,8 +5,11 @@ studio=${1:?Usage: $0 <studio-number>}
 api_url=${MYGYM_API_URL:-https://www.mygym.de/api}
 
 timestamp=$(date -u +%Y-%m-%dT%H:%M:%S.000Z)
-year=$(date -u +%Y)
-file="$year/$(date -u +%Y-%m).csv"
+
+# Timestamps stay in UTC; files are grouped by Berlin month, independent of the runner's timezone
+export TZ=Europe/Berlin
+year=$(date +%Y)
+file="$year/$(date +%Y-%m).csv"
 
 frequentation=$(curl -fsS "$api_url/checkinCount" | jq --arg studio "$studio" '.[] | select(.studioNumber | contains($studio)) | .frequentation')
 
